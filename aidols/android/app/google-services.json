@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190426716868",
+    "project_id": "aidols-83e07",
+    "storage_bucket": "aidols-83e07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190426716868:android:c26447fc978622a8170791",
+        "android_client_info": {
+          "package_name": "com.hqservices.aidols"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190426716868-gjsgfnisn9qa0rjbdq4s5d0nqn7qv9l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoxZbXptaXmp1pP7m0z_X6GfnSQ80cfgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190426716868-gjsgfnisn9qa0rjbdq4s5d0nqn7qv9l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
