@@ -1,0 +1,2 @@
+# MacosError
+ mac project
